@@ -1,6 +1,8 @@
 <resources>
-    <string name="bt_01_ui">#01UI部品もろもろ</string>
-    <string name="app_name">画面部品サンプル</string>
+    <string name="app_name">Kotlin練習アプリ</string>
+    <string name="bt_01_ui">#01UI部品もろもろ編</string>
+    <string name="bt_02_ui">#02イベントサンプル編</string>
+    <string name="app_name01">画面部品サンプル</string>
     <string name="tv_msg">お名前を入力してください</string>
     <string name="bt_save">保存</string>
     <string name="cb_drink">ドリンク</string>
@@ -29,4 +31,10 @@
         <item>ブルームーン</item>
         <item>モヒート</item>
     </string-array>
+    //02
+    <string name='app_name02'>イベントサンプル</string>
+    <string name='tv_name'>お名前を入力してください</string>
+    <string name='tv_name_hint'>ここに名前を入力してね</string>
+    <string name='bt_click'>表示</string>
+    <string name='bt_clear'>クリア</string>
 </resources>

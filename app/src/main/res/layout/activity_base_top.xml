@@ -14,4 +14,12 @@
         android:layout_gravity="center_horizontal"
         android:text="@string/bt_01_ui" />
 
+    <Button
+        android:id="@+id/ui_02_button"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/bt_02_ui" />
+
 </LinearLayout>

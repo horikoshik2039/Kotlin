@@ -17,6 +17,12 @@ class BaseTopActivity : AppCompatActivity() {
             val intent = Intent(this, MainActivity::class.java)
             startActivity(intent)
         }
+
+        val ui02Button : Button = findViewById<Button>(R.id.ui_02_button)
+        ui02Button.setOnClickListener {
+            val intent = Intent(this, EventListenerPracticeActivity::class.java)
+            startActivity(intent)
+        }
     }
 
 }
